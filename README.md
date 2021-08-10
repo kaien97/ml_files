@@ -10,6 +10,14 @@ Ensemble accuracy (test set): 84.4%
 ## Kaggle Predict Future Sales
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales/
 
-This was a project done as part of the 'How to Win a Data Science Competition: Learn from Top Kagglers' course on Coursera by HSE University. A light GBM model was used here as the performance was sufficient, and was an opportunity to use something other than a Neural Network. A large focus was on feature engineering in order to improve the model. Results were analyzed afterwards to compare the actual results to predicted results, and also to view the importance of different features within the model. 
+This was a project done as part of the 'How to Win a Data Science Competition: Learn from Top Kagglers' course on Coursera by HSE University. A light GBM model was used here as the performance was sufficient, and was an opportunity to use something other than a Neural Network. A large focus was on feature engineering in order to improve the model. Results were analyzed afterwards to compare the actual results to predicted results, and also to view the importance of different features within the model.
 
 It ended up at the top 1% of the Leaderboard at that time.
+
+## TensorFlow folder
+
+Collection of assignments from the Coursera courses '[TensorFlow Developer Specialization](https://www.coursera.org/account/accomplishments/professional-cert/EENMQWP4ARKA)' and '[Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/VMTCTGH9UMXD)'
+
+## Stanford Machine Learning
+
+Classic [ML course](https://www.coursera.org/learn/machine-learning) from Stanford University Lectured by Andrew Ng.
